@@ -1,7 +1,7 @@
 # Kamiroth-Console-Edition
 This is my Console Edition of Kamiroth.
 
-What first started as a normal class assignment spiraled out of control and turned into this. The original premise was to make a simple game where the user chose a hero class and killed a monster, but I went a lot farther than that. I create Kamiroth (though I only picked that name when making the GUI version) which I filled to the brim with as many features as I could.
+What first started as a normal class assignment spiraled out of control and turned into this. The original premise was to make a simple game where the user chose a hero class and killed a monster, but I went a lot farther than that. I created Kamiroth (though I only picked that name when making the GUI version), which I filled to the brim with as many features as I could.
 
 Things like:
   - A classic Pokemon style battle between the player and a randomly selected monster.
