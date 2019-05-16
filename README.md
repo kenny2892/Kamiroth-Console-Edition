@@ -15,3 +15,5 @@ Things like:
   - Items that can be used in the middle of battle to boost your stats.
   - Save Functionality.
   - And More.
+
+Here are the [Easter Eggs Listed](https://github.com/kenny2892/Kamiroth-Console-Edition/blob/master/Easter%20Eggs.md)
